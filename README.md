@@ -61,9 +61,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ### server output
-![serveroutput](https://github.com/Kishorerz/simplewebserver/assets/144451216/d35be252-2463-43e5-891b-353d604cf929)
 ### client output
-![clientoutout](https://github.com/Kishorerz/simplewebserver/assets/144451216/73bff84d-8170-4707-93f6-660f9f1e2045)
 
 ## RESULT:
 The program is executed succesfully
